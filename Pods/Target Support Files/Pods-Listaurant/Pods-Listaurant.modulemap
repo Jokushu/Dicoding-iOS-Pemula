@@ -1,0 +1,6 @@
+framework module Pods_Listaurant {
+  umbrella header "Pods-Listaurant-umbrella.h"
+
+  export *
+  module * { export * }
+}
